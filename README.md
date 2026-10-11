@@ -1,18 +1,18 @@
 # 🌦️ Weather App
 
-## A simple and responsive weather application built with React.js and the OpenWeatherMap API.
+- A simple and responsive weather application built with React.js and the OpenWeatherMap API.
 
-# 📸 Screenshot
+## 📸 Screenshot
 
 <p align="center">
   <img src="./src/weatherApp.png" alt="Weather App Screenshot" width="700"/>
 </p>
 
-# 🌐 Live Demo
+## 🌐 Live Demo
 
 [🔗 View Live Demo](https://weather-app-eight-nu-82.vercel.app/)
 
-# ✨ Features
+## ✨ Features
 
 - 🌍 Search for weather by city name
 - 🌡️ Display temperature
@@ -23,7 +23,7 @@
 - 📱 Responsive user interface
 
 
-# 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - React.js
 - JavaScript
@@ -31,7 +31,7 @@
 - Tailwind CSS
 - OpenWeatherMap API
 
-# 🚀 Getting Started
+## 🚀 Getting Started
 
 1. Clone this repository.
 2. Install dependencies:
