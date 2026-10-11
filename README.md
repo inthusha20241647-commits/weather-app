@@ -5,7 +5,7 @@
 ## 📸 Screenshot
 
 <p align="center">
-  <img src="weatherApp.png" alt="Weather App Screenshot" width="700"/>
+  <img src="./weatherApp.png" alt="Weather App Screenshot" width="700"/>
 </p>
 
 
