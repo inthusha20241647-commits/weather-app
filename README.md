@@ -1,7 +1,6 @@
 # 🌦️ Weather App
 
-A simple and responsive weather application built with React.js and the OpenWeatherMap API.
-
+- A simple and responsive weather application built with React.js and the OpenWeatherMap API.
 
 ## 📸 Screenshot
 
