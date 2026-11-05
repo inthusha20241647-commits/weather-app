@@ -4,7 +4,7 @@ A responsive weather application built using React.js and the OpenWeatherMap API
 
 ## 🌐 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-orange?style=for-the-badge&logo=github)](YOUR_WORKING_VERCEL_URL)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-orange?style=for-the-badge&logo=github)](weather-app-inthu2.vercel.app)
 
 ## 📸 Screenshot
 
