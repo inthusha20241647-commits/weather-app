@@ -9,7 +9,7 @@ A responsive weather application built using React.js and the OpenWeatherMap API
 ## 📸 Screenshot
 
 <p align="center">
-  <img src="./images/weatherApp.png" alt="Weather App Preview" width="850">
+  <img src="./src/images/weatherApp.png" alt="Weather App Preview" width="850">
 </p>
 
 ## ✨ Features
