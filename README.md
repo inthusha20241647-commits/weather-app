@@ -9,7 +9,7 @@ A responsive weather application built using React.js and the OpenWeatherMap API
 ## 📸 Screenshot
 
 <p align="center">
-  <img src="./src/images/weatherApp.png" alt="Weather App Preview" width="850">
+  <img src="./src/weatherApp.png" alt="Weather App Preview" width="850">
 </p>
 
 ## ✨ Features
@@ -70,10 +70,6 @@ This project helped me practise:
 - Displaying dynamic data in a React application.
 - Styling components using Tailwind CSS.
 - Handling user input for city-based searches.
-
-## 🚀 Future Improvements
-
-I plan to enhance this project as I learn more React concepts and explore additional API integration techniques.
 
 ---
 
